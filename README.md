@@ -1,2 +1,2 @@
 # Django-Blog
-Django Blog with Publish, comments and approve options
+Basic Django Blog with Publish, Comments and Approve options
