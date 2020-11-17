@@ -2,9 +2,9 @@ from django.db import models
 from django.utils import timezone
 from django.urls import reverse
 # SuperUserInformation
-# User: Jose
-# Email: training@pieriandata.com
-# Password: testpassword
+# User: rahulp38    
+# Email: patelhrahul38@gmail.com    
+# Password: 123456
 
 # Create your models here.
 class Post(models.Model):
